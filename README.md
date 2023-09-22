@@ -13,6 +13,7 @@
 4) LOSS JAR:   
 5) LEARNING JAR:
 6) EVALUATION JAR:
+   * R2 Score
 
 # Data Cleaning:
 - Filled missing values
